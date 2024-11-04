@@ -80,3 +80,7 @@ npx playwright test --debug
 ## Configuration
 
 Playwright Configuration: You can modify the playwright.config.ts file to change global settings like browser type, base URL, viewport size, and more.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
